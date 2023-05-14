@@ -2,6 +2,10 @@
 
 ### Hi everyone! I'm Gustavo! 🤙
 
+About me:<br/>
+🎓 Computer Scientist<br/>
+🚀 I'm a web developer, mainly focused on frontend technologies.<br/>
+
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavorochajs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rocha-js82/)
 
@@ -17,7 +21,6 @@
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="NODE JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
 <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF"/>
 <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div><br/>
