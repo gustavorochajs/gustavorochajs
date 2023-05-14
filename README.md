@@ -2,7 +2,7 @@
 
 ### Hi everyone! I'm Gustavo! 🤙
 
-About me:<br/>
+#### About me:<br/>
 🎓 Computer Scientist<br/>
 🚀 I'm a web developer, mainly focused on frontend technologies.<br/>
 
