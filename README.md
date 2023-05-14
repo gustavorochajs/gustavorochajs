@@ -1,15 +1,13 @@
 
 
-### Hi everyone! I'm Gustavo! 🤙
-
-#### About me:<br/>
-🎓 Computer Scientist<br/>
-🚀 I'm a web developer, mainly focused on frontend technologies.<br/>
-
+# Hi everyone! I'm Gustavo! 🤙
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavorochajs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rocha-js82/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochajs&layout=compact)](https://github.com/gustavorochajs/github-readme-stats)
+## About me:<br/>
+🎓 I have a degree in Computer Science<br/>
+🚀 I'm a web developer, mainly focused on frontend technologies.<br/>
+📚 Currently I'm studying NextJS and FireBase.<br/>
 
 ## Technologies I use:
 <div style="dislay:inline_block"><br/>
@@ -22,6 +20,11 @@
 <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FFFFFF"/>
 </div><br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorochajs&theme=dark)](https://github.com/gustavorochajs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 #### "Never stop learning!"
-#### "Passionate about technology!"
+
+
 
