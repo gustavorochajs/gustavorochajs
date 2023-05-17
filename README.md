@@ -7,7 +7,7 @@
 ## About me:<br/>
 🎓 I have a degree in Computer Science<br/>
 🚀 I'm a web developer, mainly focused on frontend technologies.<br/>
-📚 Currently I'm studying NextJS and FireBase.<br/>
+📚 Currently I'm studying React and NextJS.<br/>
 
 ## Technologies I use:
 <div style="dislay:inline_block"><br/>
